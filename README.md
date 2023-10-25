@@ -1,5 +1,5 @@
 ![Student | Learning web development](https://media.licdn.com/dms/image/D4E16AQEs-E1q4b3oEw/profile-displaybackgroundimage-shrink_350_1400/0/1698253157399?e=1703721600&v=beta&t=sYYYB5lHVNinNBnoV0G8-OVMVs-F62fFGgfDzGQ-E-4)
-### Hi there 👋, This is Asikur Rahman.
+### Hi there , This is Asikur Rahman.
 #### Student | Learning web development
 
 
