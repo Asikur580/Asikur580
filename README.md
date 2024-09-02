@@ -5,7 +5,7 @@
 
 I am studying diploma in computer science and engineering at Bangladesh polytechnic institute | And Learning web development.
 
-Skills: Laravel / PHP / SQL / GitHub / Git / JavaScript / Bootstrap / CSS3 / HTML5
+Skills: Laravel / PHP / SQL / GitHub / Git / JavaScript / jQuery / Bootstrap / CSS3 / HTML5
 
 - 🌱 I’m currently learning Web Development 
 
