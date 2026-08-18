@@ -77,15 +77,6 @@ I have worked on **HRM, ERP, and enterprise approval workflow systems** used in 
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asikur580)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asikur580\&show_icons=true)
-
-![GitHub metrics](https://metrics.lecoq.io/Asikur580)
-
----
 
 ## 🔗 Connect With Me
 
